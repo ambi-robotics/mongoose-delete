@@ -31,12 +31,12 @@
   },
   "homepage": "https://github.com/ambi-robotics/mongoose-delete",
   "peerDependencies": {
-    "mongoose": "5.x || 6.x || 7.x || 8.x"
+    "mongoose": "8.15.1"
   },
   "devDependencies": {
     "chai": "^4.3.7",
     "mocha": "^10.2.0",
-    "mongoose": "^8.1.1",
+    "mongoose": "^8.15.1",
     "nyc": "^15.0.0"
   }
 }
