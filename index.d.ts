@@ -20,7 +20,7 @@ declare module "@ambi-robotics/mongoose-delete" {
     | "aggregate";
 
   export interface SoftDeleteModel<
-    T extends mongoose.Document,
+    T,
     // eslint-disable-next-line @typescript-eslint/no-empty-object-type
     QueryHelpers = {},
     // eslint-disable-next-line @typescript-eslint/no-empty-object-type
