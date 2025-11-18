@@ -33,13 +33,13 @@
   },
   "homepage": "https://github.com/ambi-robotics/mongoose-delete",
   "peerDependencies": {
-    "mongoose": "^8.20.0"
+    "mongoose": "^8.15.1"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
     "chai": "^6.2.1",
     "mocha": "^10.2.0",
-    "mongoose": "^8.20.0",
+    "mongoose": "^8.15.1",
     "nyc": "^17.1.0",
     "typescript": "^5.9.3"
   }
