@@ -1,6 +1,6 @@
 {
   "name": "@ambi-robotics/mongoose-delete",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Mongoose soft delete plugin",
   "author": "Sanel Deljkic <dsanel@gmail.com> (http://dsanel.github.io/)",
   "main": "index.js",
@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/ambi-robotics/mongoose-delete",
   "peerDependencies": {
-    "mongoose": "8.15.1"
+    "mongoose": "^8.20.0"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
